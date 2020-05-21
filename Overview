@@ -1,0 +1,25 @@
+# llSPS-INT-684-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
+Intelligent Customer Help Desk with Smart Document Understanding
+
+
+
+A customer care chat bot that can answer all simple questions, such as store locations its whereabouts and hours,
+
+directions, and perhaps even making appointments related to the Metro stores in Hyderabad. When a question falls outside of the scope 
+of the bot it tries to maintain the queries of customers by re-quoting the various possibilities it can do, the option is typically to 
+tell the customer that the question is not valid or offer to speak to a real person.
+
+In this project, there will be another option. If the customer question is about the operation of a device, the application shall pass
+the question onto the Watson Discovery Service, which has been pre-loaded with the device’s owners manual. So now, instead of 
+“Would you like to speak to a customer representative?” we can return the relevant sections of the owners manual to help solve our 
+customers’ problems.
+
+To take it a step further, the project shall use the Smart Document Understanding feature of Watson Discovery to train it on
+what text in the owners manual is important and what is not. This will improve the answers returned from the queries.
+
+This is just a basic model of it,we can build more accurate and more efficient
+system that can be installed in the stores.
+
+Email-saiteja0704@gmail.com
+node-red dashboard- https://node-red-raadn.eu-gb.mybluemix.net/ui/#!/0?socketid=ir6qv6Ec6FxqhX4NAAAo
+YOUTUBE-https://www.youtube.com/watch?v=ahY-I4_z-4Y
